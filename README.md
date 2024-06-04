@@ -1,4 +1,10 @@
-# Data-Analysis
+# Abstract
+This paper explores mobile application usage patterns in three French cities—Lyon, Marseille, and Montpellier—using data from the NetMob 2023 Challenge dataset. The paper seeks to determine when and where individuals interact via popular social media and entertainment apps (Instagram, Twitter, and YouTube) to determine the most effective times and locations for marketers to advertise. The data collected represents instances of network traffic varying with time and location. The best time and locations for advertising are evaluated based on the manipulation of the data which includes preprocessing, visualization, clustering, and classification. The final results and discussion provide useful information to app owners and advertisers to enhance their ad pricing strategies and increase marketing reach.
+
+# Keywords
+Data Analysis - Usage patterns -Data Traffic - Clustering – Classification - Outlier Detection
+
+# Methdology 
 
 This research aims to analyze and draw conclusions about the advertising field. The target is to manipulate data from 3 cities in France (Lyon, Marseille, and Montpellier) to reach a statistical and visual analysis to assist people investing in the advertising field.
 
@@ -50,4 +56,4 @@ i range from 1 to n where n is the number of percentiles
 # Tools and Programming languages used
 Every step was programmed by Python and its libraries such as NumPy, pandas, scikit-learn, matplotlib and seaborn. They were used for computations and data manipulation, visualization and clustering models. Jupyter Notebook was utilized for interactive analysis, and Excel/CSV for initial data handling. 
 # Conclusion
-Each of the previous methods was repeated for all three cities’ applications, and the results and findings will be compared and discussed in the analysis section.  
+Each of the previous methods was repeated for all three cities’ applications, and the results and findings are compared and discussed in the attached paper.
